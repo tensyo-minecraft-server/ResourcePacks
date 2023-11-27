@@ -1,0 +1,32 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/outside_category/black_naginata_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/gemnite/gemnite_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/gemenite/gemenite_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/jouenite/jouenite_sword"
+        }
+    ]
+}

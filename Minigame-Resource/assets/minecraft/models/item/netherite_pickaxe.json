@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_pickaxe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/gemnite/gemnite_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/gemenite/gemenite_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/jouenite/jouenite_pickaxe"
+        }
+    ]
+}

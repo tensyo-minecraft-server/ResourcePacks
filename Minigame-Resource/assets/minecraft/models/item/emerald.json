@@ -1,0 +1,44 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/emerald"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/gemnite/gemnite"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/gemenite/gemenite"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/jouenite/jouenite"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/darknite/darknite"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/unued/emerald_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/unued/emerald_6"
+        }
+    ]
+}

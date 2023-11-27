@@ -1,0 +1,38 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/light_gray_dye"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/outside_category/exp_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/outside_category/exp_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/ingot/diamond_ingot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/ingot/metal_ingot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "custom/coin/coin_fising"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/outside_category/exp_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/coin/coin_night_vision"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/coin/coin_fire_resistance"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/coin/coin_strength"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/coin/coin_haste"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/magic_wand"
+        }
+    ]
+}

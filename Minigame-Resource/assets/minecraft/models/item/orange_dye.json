@@ -1,0 +1,80 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/orange_dye"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/block/block1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom/block/block2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/block/block3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/block/block4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/block/block5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/block/block6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/block/block7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/coin/coin_coal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "custom/coin/coin_iron"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "custom/coin/coin_gold"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "custom/coin/coin_emerald"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "custom/coin/coin_diamond"
+        }
+    ]
+}
