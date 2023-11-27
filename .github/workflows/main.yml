@@ -1,4 +1,4 @@
-name: CI
+name: Generate Resource Packs Release
 
 on:
   push:
@@ -6,9 +6,13 @@ on:
 
 jobs:
   build_and_release:
-    name: Build
+    name: Build and Release
+
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
@@ -21,9 +25,9 @@ jobs:
       - name: View the resource pack you created.
         run: find . -maxdepth 1 -type f -name "*.zip"
 
-      - uses: softprops/action-gh-release@v0.1.14
+      - uses: softprops/action-gh-release@v1
         with:
-          tag_name: action-v${{ github.run_number }}
+          tag_name: v${{ github.run_number }}
           files: '*.zip'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
