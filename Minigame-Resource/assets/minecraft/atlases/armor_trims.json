@@ -1,0 +1,17 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "trims/models/armor/gemnite",
+                "trims/models/armor/gemnite_leggings",
+                "trims/models/armor/gemenite",
+                "trims/models/armor/gemenite_leggings"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "none": "trims/color_palettes/none"
+            }
+        }
+    ]
+}

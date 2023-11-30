@@ -1,0 +1,7 @@
+{
+    "parent": "guns:item/weapons/rpg7",
+    "textures": {
+		"wood_one": "guns:block/color/blue_camo_two",
+		"graymetal_light": "guns:block/color/blue_camo"
+    }
+}
