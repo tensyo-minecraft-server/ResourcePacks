@@ -1,0 +1,15 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "trims/models/armor/jemunaito",
+                "trims/models/armor/jemunaito_leggings"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "none": "trims/color_palettes/none"
+            }
+        }
+    ]
+}
