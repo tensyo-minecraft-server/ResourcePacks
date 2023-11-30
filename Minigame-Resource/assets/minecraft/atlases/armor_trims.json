@@ -4,7 +4,9 @@
             "type": "paletted_permutations",
             "textures": [
                 "trims/models/armor/jemunaito",
-                "trims/models/armor/jemunaito_leggings"
+                "trims/models/armor/jemunaito_leggings",
+                "trims/models/armor/emerald",
+                "trims/models/armor/emerald_leggings"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {
