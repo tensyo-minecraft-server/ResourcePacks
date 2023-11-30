@@ -32,13 +32,19 @@
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/unued/emerald_5"
+            "model": "custom/outside_category/emerald_5"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/unued/emerald_6"
+            "model": "custom/outside_category/emerald_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "custom/outside_category/trophy"
         }
     ]
 }

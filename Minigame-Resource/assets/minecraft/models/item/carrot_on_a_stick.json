@@ -38,7 +38,7 @@
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/magic_wand"
+            "model": "custom/outside_category/magic_wand"
         }
     ]
 }

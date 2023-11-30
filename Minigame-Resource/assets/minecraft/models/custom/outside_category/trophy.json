@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/outside_category/emerald6"
+		"layer0": "item/outside_category/trophy"
 	}
 }
