@@ -1,8 +1,8 @@
 {
-    "parent": "block/orientable",
-    "textures": {
-        "front": "misc/pumpkin_override_scope",
-        "side": "misc/pumpkin_override_empty",
-        "top": "misc/pumpkin_override_empty"
-    }
+  "parent": "block/orientable",
+  "textures": {
+    "front": "gun_weapons:misc/pumpkin_override_scope",
+    "side": "gun_weapons:misc/pumpkin_override_empty",
+    "top": "gun_weapons:misc/pumpkin_override_empty"
+  }
 }

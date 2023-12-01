@@ -8,43 +8,43 @@
             "predicate": {
                 "custom_model_data": -1002
             },
-            "model": "guns:item/misc/suppressor"
+            "model": "gun_weapons:item/misc/suppressor"
         },
         {
             "predicate": {
                 "custom_model_data": -1001
             },
-            "model": "guns:item/misc/reflexsight"
+            "model": "gun_weapons:item/misc/reflexsight"
         },
         {
             "predicate": {
                 "custom_model_data": -1000
             },
-            "model": "guns:item/weapons/reticle_pmii"
+            "model": "gun_weapons:item/weapons/reticle_pmii"
         },
         {
             "predicate": {
                 "custom_model_data": -101
             },
-            "model": "guns:item/weapons/ammo_nuke"
+            "model": "gun_weapons:item/weapons/ammo_nuke"
         },
         {
             "predicate": {
                 "custom_model_data": -100
             },
-            "model": "guns:item/weapons/ammo_rocket"
+            "model": "gun_weapons:item/weapons/ammo_rocket"
         },
         {
             "predicate": {
                 "custom_model_data": -10
             },
-            "model": "guns:item/weapons/combatknife"
+            "model": "gun_weapons:item/weapons/combatknife"
         },
         {
             "predicate": {
                 "custom_model_data": -1
             },
-            "model": "guns:item/weapons/stim"
+            "model": "gun_weapons:item/weapons/stim"
         },
         {
             "predicate": {
@@ -56,469 +56,469 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "guns:item/weapons/uzi"
+            "model": "gun_weapons:item/weapons/uzi"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "guns:item/weapons/aug"
+            "model": "gun_weapons:item/weapons/aug"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "guns:item/weapons/origin12"
+            "model": "gun_weapons:item/weapons/origin12"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "guns:item/weapons/rpg7"
+            "model": "gun_weapons:item/weapons/rpg7"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "guns:item/weapons/ak47"
+            "model": "gun_weapons:item/weapons/ak47"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "guns:item/weapons/fnfal"
+            "model": "gun_weapons:item/weapons/fnfal"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "guns:item/weapons/m4a1"
+            "model": "gun_weapons:item/weapons/m4a1"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "guns:item/weapons/coltpython"
+            "model": "gun_weapons:item/weapons/coltpython"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "guns:item/weapons/deserteagle"
+            "model": "gun_weapons:item/weapons/deserteagle"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "guns:item/weapons/kar98k"
+            "model": "gun_weapons:item/weapons/kar98k"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "guns:item/weapons/mg34"
+            "model": "gun_weapons:item/weapons/mg34"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "guns:item/weapons/famasg2"
+            "model": "gun_weapons:item/weapons/famasg2"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model": "guns:item/weapons/ax50"
+            "model": "gun_weapons:item/weapons/ax50"
         },
         {
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "guns:item/weapons/dp12"
+            "model": "gun_weapons:item/weapons/dp12"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "guns:item/weapons/stg44"
+            "model": "gun_weapons:item/weapons/stg44"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "guns:item/weapons/fatman"
+            "model": "gun_weapons:item/weapons/fatman"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "guns:item/weapons/fatman_rock"
+            "model": "gun_weapons:item/weapons/fatman_rock"
         },
         {
             "predicate": {
                 "custom_model_data": 1001
             },
-            "model": "guns:item/weapons/uziaiming"
+            "model": "gun_weapons:item/weapons/uziaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1002
             },
-            "model": "guns:item/weapons/augaiming"
+            "model": "gun_weapons:item/weapons/augaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1003
             },
-            "model": "guns:item/weapons/origin12aiming"
+            "model": "gun_weapons:item/weapons/origin12aiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1004
             },
-            "model": "guns:item/weapons/rpg7aiming"
+            "model": "gun_weapons:item/weapons/rpg7aiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1005
             },
-            "model": "guns:item/weapons/ak47aiming"
+            "model": "gun_weapons:item/weapons/ak47aiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1006
             },
-            "model": "guns:item/weapons/fnfalaiming"
+            "model": "gun_weapons:item/weapons/fnfalaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1007
             },
-            "model": "guns:item/weapons/m4a1aiming"
+            "model": "gun_weapons:item/weapons/m4a1aiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1008
             },
-            "model": "guns:item/weapons/coltpythonaiming"
+            "model": "gun_weapons:item/weapons/coltpythonaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1009
             },
-            "model": "guns:item/weapons/deserteagleaiming"
+            "model": "gun_weapons:item/weapons/deserteagleaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1010
             },
-            "model": "guns:item/weapons/kar98kaiming"
+            "model": "gun_weapons:item/weapons/kar98kaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1011
             },
-            "model": "guns:item/weapons/mg34aiming"
+            "model": "gun_weapons:item/weapons/mg34aiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1012
             },
-            "model": "guns:item/weapons/famasg2aiming"
+            "model": "gun_weapons:item/weapons/famasg2aiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1013
             },
-            "model": "guns:item/weapons/reticle_pmii"
+            "model": "gun_weapons:item/weapons/reticle_pmii"
         },
         {
             "predicate": {
                 "custom_model_data": 1014
             },
-            "model": "guns:item/weapons/dp12aiming"
+            "model": "gun_weapons:item/weapons/dp12aiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1015
             },
-            "model": "guns:item/weapons/stg44aiming"
+            "model": "gun_weapons:item/weapons/stg44aiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1016
             },
-            "model": "guns:item/weapons/fatmanaiming"
+            "model": "gun_weapons:item/weapons/fatmanaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1017
             },
-            "model": "guns:item/weapons/fatman_rockaiming"
+            "model": "gun_weapons:item/weapons/fatman_rockaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 2001
             },
-            "model": "guns:item/weapons/uzisprinting"
+            "model": "gun_weapons:item/weapons/uzisprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2002
             },
-            "model": "guns:item/weapons/augsprinting"
+            "model": "gun_weapons:item/weapons/augsprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2003
             },
-            "model": "guns:item/weapons/origin12sprinting"
+            "model": "gun_weapons:item/weapons/origin12sprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2004
             },
-            "model": "guns:item/weapons/rpg7sprinting"
+            "model": "gun_weapons:item/weapons/rpg7sprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2005
             },
-            "model": "guns:item/weapons/ak47sprinting"
+            "model": "gun_weapons:item/weapons/ak47sprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2006
             },
-            "model": "guns:item/weapons/fnfalsprinting"
+            "model": "gun_weapons:item/weapons/fnfalsprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2007
             },
-            "model": "guns:item/weapons/m4a1sprinting"
+            "model": "gun_weapons:item/weapons/m4a1sprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2008
             },
-            "model": "guns:item/weapons/coltpythonsprinting"
+            "model": "gun_weapons:item/weapons/coltpythonsprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2009
             },
-            "model": "guns:item/weapons/deserteaglesprinting"
+            "model": "gun_weapons:item/weapons/deserteaglesprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2010
             },
-            "model": "guns:item/weapons/kar98ksprinting"
+            "model": "gun_weapons:item/weapons/kar98ksprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2011
             },
-            "model": "guns:item/weapons/mg34sprinting"
+            "model": "gun_weapons:item/weapons/mg34sprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2012
             },
-            "model": "guns:item/weapons/famasg2sprinting"
+            "model": "gun_weapons:item/weapons/famasg2sprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2013
             },
-            "model": "guns:item/weapons/ax50sprinting"
+            "model": "gun_weapons:item/weapons/ax50sprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2014
             },
-            "model": "guns:item/weapons/dp12sprinting"
+            "model": "gun_weapons:item/weapons/dp12sprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2015
             },
-            "model": "guns:item/weapons/stg44sprinting"
+            "model": "gun_weapons:item/weapons/stg44sprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2016
             },
-            "model": "guns:item/weapons/fatmansprinting"
+            "model": "gun_weapons:item/weapons/fatmansprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 2017
             },
-            "model": "guns:item/weapons/fatman_rocksprinting"
+            "model": "gun_weapons:item/weapons/fatman_rocksprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 3012
             },
-            "model": "guns:item/weapons/famasg2reloading"
+            "model": "gun_weapons:item/weapons/famasg2reloading"
         },
         {
             "predicate": {
                 "custom_model_data": 4016
             },
-            "model": "guns:item/weapons/fatman_empty"
+            "model": "gun_weapons:item/weapons/fatman_empty"
         },
         {
             "predicate": {
                 "custom_model_data": 4017
             },
-            "model": "guns:item/weapons/fatman_empty"
+            "model": "gun_weapons:item/weapons/fatman_empty"
         },
         {
             "predicate": {
                 "custom_model_data": 10004
             },
-            "model": "guns:item/weapons/rpg7_blue"
+            "model": "gun_weapons:item/weapons/rpg7_blue"
         },
         {
             "predicate": {
                 "custom_model_data": 10005
             },
-            "model": "guns:item/weapons/ak47_blue"
+            "model": "gun_weapons:item/weapons/ak47_blue"
         },
         {
             "predicate": {
                 "custom_model_data": 11004
             },
-            "model": "guns:item/weapons/rpg7_blueaiming"
+            "model": "gun_weapons:item/weapons/rpg7_blueaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 11005
             },
-            "model": "guns:item/weapons/ak47_blueaiming"
+            "model": "gun_weapons:item/weapons/ak47_blueaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 12004
             },
-            "model": "guns:item/weapons/rpg7_bluesprinting"
+            "model": "gun_weapons:item/weapons/rpg7_bluesprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 12005
             },
-            "model": "guns:item/weapons/ak47_bluesprinting"
+            "model": "gun_weapons:item/weapons/ak47_bluesprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 20004
             },
-            "model": "guns:item/weapons/rpg7_red"
+            "model": "gun_weapons:item/weapons/rpg7_red"
         },
         {
             "predicate": {
                 "custom_model_data": 20005
             },
-            "model": "guns:item/weapons/ak47_red"
+            "model": "gun_weapons:item/weapons/ak47_red"
         },
         {
             "predicate": {
                 "custom_model_data": 21004
             },
-            "model": "guns:item/weapons/rpg7_redaiming"
+            "model": "gun_weapons:item/weapons/rpg7_redaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 21005
             },
-            "model": "guns:item/weapons/ak47_redaiming"
+            "model": "gun_weapons:item/weapons/ak47_redaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 22004
             },
-            "model": "guns:item/weapons/rpg7_redsprinting"
+            "model": "gun_weapons:item/weapons/rpg7_redsprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 22005
             },
-            "model": "guns:item/weapons/ak47_redsprinting"
+            "model": "gun_weapons:item/weapons/ak47_redsprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 100007
             },
-            "model": "guns:item/weapons/m4a1_reflexsight"
+            "model": "gun_weapons:item/weapons/m4a1_reflexsight"
         },
         {
             "predicate": {
                 "custom_model_data": 100015
             },
-            "model": "guns:item/weapons/stg44_reflexsight"
+            "model": "gun_weapons:item/weapons/stg44_reflexsight"
         },
         {
             "predicate": {
                 "custom_model_data": 101007
             },
-            "model": "guns:item/weapons/m4a1_reflexsightaiming"
+            "model": "gun_weapons:item/weapons/m4a1_reflexsightaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 101015
             },
-            "model": "guns:item/weapons/stg44_reflexsightaiming"
+            "model": "gun_weapons:item/weapons/stg44_reflexsightaiming"
         },
         {
             "predicate": {
                 "custom_model_data": 102007
             },
-            "model": "guns:item/weapons/m4a1_reflexsightsprinting"
+            "model": "gun_weapons:item/weapons/m4a1_reflexsightsprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 102015
             },
-            "model": "guns:item/weapons/stg44_reflexsightsprinting"
+            "model": "gun_weapons:item/weapons/stg44_reflexsightsprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 1000007
             },
-            "model": "guns:item/weapons/m4a1_suppressor"
+            "model": "gun_weapons:item/weapons/m4a1_suppressor"
         },
         {
             "predicate": {
                 "custom_model_data": 1001007
             },
-            "model": "guns:item/weapons/m4a1_suppressoraiming"
+            "model": "gun_weapons:item/weapons/m4a1_suppressoraiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1002007
             },
-            "model": "guns:item/weapons/m4a1_suppressorsprinting"
+            "model": "gun_weapons:item/weapons/m4a1_suppressorsprinting"
         },
         {
             "predicate": {
                 "custom_model_data": 1100007
             },
-            "model": "guns:item/weapons/m4a1_reflexsight_suppressor"
+            "model": "gun_weapons:item/weapons/m4a1_reflexsight_suppressor"
         },
         {
             "predicate": {
                 "custom_model_data": 1101007
             },
-            "model": "guns:item/weapons/m4a1_reflexsight_suppressoraiming"
+            "model": "gun_weapons:item/weapons/m4a1_reflexsight_suppressoraiming"
         },
         {
             "predicate": {
                 "custom_model_data": 1102007
             },
-            "model": "guns:item/weapons/m4a1_reflexsight_suppressorsprinting"
+            "model": "gun_weapons:item/weapons/m4a1_reflexsight_suppressorsprinting"
         }
     ]
 }

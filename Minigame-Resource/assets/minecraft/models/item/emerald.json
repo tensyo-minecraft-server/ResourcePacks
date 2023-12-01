@@ -8,43 +8,31 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/gemnite/gemnite"
+            "model": "custom/special_ore/gemnite/gemnite"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/gemenite/gemenite"
+            "model": "custom/special_ore/gemenite/gemenite"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/jouenite/jouenite"
+            "model": "custom/special_ore/jouenite/jouenite"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/darknite/darknite"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5
-            },
-            "model": "custom/outside_category/emerald_5"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6
-            },
-            "model": "custom/outside_category/emerald_6"
+            "model": "custom/special_ore/darknite/darknite"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "custom/outside_category/trophy"
+            "model": "custom/other/trophy"
         }
     ]
 }

@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/outside_category/sword/black_naginata_sword"
-    }
-}

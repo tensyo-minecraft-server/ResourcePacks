@@ -14,19 +14,25 @@
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/gemnite/gemnite_sword"
+            "model": "custom/special_ore/gemnite/tools/sword"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/gemenite/gemenite_sword"
+            "model": "custom/special_ore/gemenite/tools/sword"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "custom/jouenite/jouenite_sword"
+            "model": "custom/special_ore/jouenite/tools/sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/special_ore/darknite/tools/sword"
         }
     ]
 }

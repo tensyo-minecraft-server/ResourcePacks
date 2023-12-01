@@ -8,37 +8,37 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/outside_category/exp_bottle"
+            "model": "custom/other/exp_bottle"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/coin/coin_night_vision"
+            "model": "custom/coin/ability/night_vision"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/coin/coin_fire_resistance"
+            "model": "custom/coin/ability/fire_resistance"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/coin/coin_strength"
+            "model": "custom/coin/ability/strength"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/coin/coin_haste"
+            "model": "custom/coin/ability/haste"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/outside_category/magic_wand"
+            "model": "custom/other/magic_wand"
         }
     ]
 }

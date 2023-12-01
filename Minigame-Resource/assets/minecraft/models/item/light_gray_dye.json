@@ -8,31 +8,31 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/outside_category/exp_bottle"
+            "model": "custom/other/exp_bottle"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/outside_category/exp_bottle"
+            "model": "custom/other/exp_bottle"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "custom/ingot/diamond_ingot"
+            "model": "custom/special_ore/diamond/diamond_ingot"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "custom/ingot/metal_ingot"
+            "model": "custom/special_ore/metal/metal_ingot"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "custom/coin/coin_fising"
+            "model": "custom/coin/fising"
         }
     ]
 }

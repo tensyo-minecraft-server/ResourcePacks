@@ -8,19 +8,25 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/gemnite/gemnite_shovel"
+            "model": "custom/special_ore/gemnite/tools/shovel"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/gemenite/gemenite_shovel"
+            "model": "custom/special_ore/gemenite/tools/shovel"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/jouenite/jouenite_shovel"
+            "model": "custom/special_ore/jouenite/tools/shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/special_ore/darknite/tools/shovel"
         }
     ]
 }

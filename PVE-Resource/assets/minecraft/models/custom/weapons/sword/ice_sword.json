@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "guns:item/weapons/sword/ice_sword"
+        "layer0": "item/weapons/sword/ice_sword"
     }
 }

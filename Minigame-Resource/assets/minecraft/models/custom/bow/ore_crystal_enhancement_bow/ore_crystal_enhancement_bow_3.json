@@ -1,6 +1,6 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "item/item/bow/ore_crystal_enhancement_bow/ore_crystal_enhancement_bow_3"
+        "layer0": "item/bow/ore_crystal_enhancement_bow/ore_crystal_enhancement_bow_3"
     }
 }

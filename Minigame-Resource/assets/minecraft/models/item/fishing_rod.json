@@ -8,27 +8,27 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/fishing_rod/enhancement_fishing_rod_alpha"
+            "model": "custom/fishing/rod/enhancement_fishing_rod_alpha"
         },
         {
             "predicate": {
                 "custom_model_data": 1,
                 "cast": 1
             },
-            "model": "custom/fishing_rod/enhancement_fishing_rod_alpha_cast"
+            "model": "custom/fishing/rod/enhancement_fishing_rod_alpha_cast"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/fishing_rod/enhancement_fishing_rod_beta"
+            "model": "custom/fishing/rod/enhancement_fishing_rod_beta"
         },
         {
             "predicate": {
                 "custom_model_data": 2,
                 "cast": 1
             },
-            "model": "custom/fishing_rod/enhancement_fishing_rod_beta_cast"
+            "model": "custom/fishing/rod/enhancement_fishing_rod_beta_cast"
         }
     ]
 }
