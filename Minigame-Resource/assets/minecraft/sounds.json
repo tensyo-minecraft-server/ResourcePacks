@@ -7,6 +7,14 @@
             }
         ]
     },
+    "custom.door": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "custom/door"
+            }
+        ]
+    },
     "custom.lobby1": {
         "category": "master",
         "sounds": [
@@ -15,35 +23,11 @@
             }
         ]
     },
-    "custom.zyuzyutu.on_vocal": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "custom/zyuzyutu"
-            }
-        ]
-    },
     "custom.music_5": {
         "category": "master",
         "sounds": [
             {
                 "name": "custom/music_5"
-            }
-        ]
-    },
-    "custom.music_7": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "custom/music_7"
-            }
-        ]
-    },
-    "custom.music_8": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "custom/music_8"
             }
         ]
     },
@@ -68,38 +52,6 @@
         "sounds": [
             {
                 "name": "custom/music_11"
-            }
-        ]
-    },
-    "custom.okutagon": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "custom/okutagon"
-            }
-        ]
-    },
-    "custom.ika": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "custom/ika"
-            }
-        ]
-    },
-    "custom.wave12": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "custom/wave12"
-            }
-        ]
-    },
-    "custom.door": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "custom/door"
             }
         ]
     },
