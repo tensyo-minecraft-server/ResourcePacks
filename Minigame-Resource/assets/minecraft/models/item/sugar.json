@@ -27,6 +27,12 @@
                 "custom_model_data": 4
             },
             "model": "custom/powder/yellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/other/salt"
         }
     ]
 }
