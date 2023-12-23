@@ -39,6 +39,12 @@
                 "custom_model_data": 6
             },
             "model": "custom/other/drinks/cup_empty"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/other/cat_ears"
         }
     ]
 }
