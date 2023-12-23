@@ -55,6 +55,14 @@
             }
         ]
     },
+    "custom.xmas": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "custom/xmas"
+            }
+        ]
+    },
     "fx.ricochet": {
         "category": "master",
         "sounds": [
