@@ -33,6 +33,12 @@
                 "custom_model_data": 5
             },
             "model": "custom/other/plastic"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/other/drinks/cup_empty"
         }
     ]
 }
