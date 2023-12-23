@@ -1,8 +1,8 @@
 {
     "parent": "gun_weapons:item/weapons/ak47",
     "textures": {
-		"2": "gun_weapons:block/color/blue_camo_two",
-		"4": "gun_weapons:block/color/darkblue",
-		"5": "gun_weapons:block/color/blue_camo"
+        "2": "gun_weapons:block/color/blue_camo_two",
+        "4": "gun_weapons:block/color/darkblue",
+        "5": "gun_weapons:block/color/blue_camo"
     }
 }
