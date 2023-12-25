@@ -76,39 +76,6 @@
     "overrides": [
         {
             "predicate": {
-                "pulling": 1
-            },
-            "model": "gun_weapons:item/crossbow_pulling_0"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.58
-            },
-            "model": "gun_weapons:item/crossbow_pulling_1"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 1.0
-            },
-            "model": "gun_weapons:item/crossbow_pulling_2"
-        },
-        {
-            "predicate": {
-                "charged": 1
-            },
-            "model": "gun_weapons:item/crossbow_arrow"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-                "firework": 1
-            },
-            "model": "gun_weapons:item/crossbow_firework"
-        },
-        {
-            "predicate": {
                 "custom_model_data": -1000
             },
             "model": "gun_weapons:item/weapons/reticle_pmii"
@@ -130,6 +97,50 @@
                 "custom_model_data": -1
             },
             "model": "gun_weapons:item/weapons/stim"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 0
+            },
+            "model": "minecraft:item/crossbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 0,
+                "pulling": 1
+            },
+            "model": "minecraft:item/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 0,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "minecraft:item/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 0,
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "minecraft:item/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 0,
+                "charged": 1
+            },
+            "model": "minecraft:item/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 0,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "minecraft:item/crossbow_firework"
         },
         {
             "predicate": {
