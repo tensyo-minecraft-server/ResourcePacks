@@ -8,13 +8,19 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/other/mandarin_orange"
+            "model": "custom/other/foods/fruits/mandarin_orange"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
             "model": "custom/other/drinks/wine_orange_juice"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom/other/foods/fruits/grape"
         }
     ]
 }

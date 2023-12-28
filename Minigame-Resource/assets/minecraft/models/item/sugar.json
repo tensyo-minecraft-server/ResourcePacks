@@ -32,7 +32,7 @@
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/other/salt"
+            "model": "custom/other/foods/seasonings/salt"
         }
     ]
 }

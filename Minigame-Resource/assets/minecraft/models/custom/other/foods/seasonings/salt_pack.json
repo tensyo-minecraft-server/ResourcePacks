@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/other/salt_pack"
+        "layer0": "item/other/foods/seasonings/salt_pack"
     }
 }
