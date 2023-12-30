@@ -1,9 +1,33 @@
 {
-    "custom.8bit": {
+    "custom.bonus": {
         "category": "master",
         "sounds": [
             {
-                "name": "custom/8-bit"
+                "name": "custom/bonus"
+            }
+        ]
+    },
+    "custom.athletic.0": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "custom/athletic"
+            }
+        ]
+    },
+    "custom.athletic.1": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "custom/athletic2"
+            }
+        ]
+    },
+    "custom.athletic.2": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "custom/athletic3"
             }
         ]
     },
