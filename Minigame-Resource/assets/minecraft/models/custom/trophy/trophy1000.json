@@ -4,10 +4,10 @@
 		"1": "block/glow_item_frame",
 		"3": "block/red_mushroom_block",
 		"4": "block/gold_block",
-		"6": "custom/diamond_pickaxe",
-		"8": "custom/font",
+		"6": "block/diamond_pickaxe",
+		"8": "block/font",
 		"9": "block/bone_block_side",
-		"particle": "glow_item_frame"
+		"particle": "gold_block"
 	},
 	"elements": [
 		{

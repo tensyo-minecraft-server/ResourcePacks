@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "glow_item_frame",
-		"3": "red_mushroom_block",
-		"4": "gold_block",
-		"6": "diamond_pickaxe",
-		"8": "font",
-		"9": "bone_block_side",
-		"12": "copper_block",
-		"particle": "glow_item_frame"
+		"1": "block/glow_item_frame",
+		"3": "block/red_mushroom_block",
+		"4": "block/gold_block",
+		"6": "block/diamond_pickaxe",
+		"8": "block/font",
+		"9": "block/bone_block_side",
+		"12": "block/copper_block",
+		"particle": "copper_block"
 	},
 	"elements": [
 		{
