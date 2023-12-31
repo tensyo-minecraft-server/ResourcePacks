@@ -45,24 +45,6 @@
                 "custom_model_data": 7
             },
             "model": "custom/other/cat_ears"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 8
-            },
-            "model": "custom/trophy/trophy100"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 9
-            },
-            "model": "custom/trophy/trophy500"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10
-            },
-            "model": "custom/trophy/trophy1000"
         }
     ]
 }
