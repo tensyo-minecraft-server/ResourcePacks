@@ -21,6 +21,12 @@
           "custom_model_data": 3
       },
       "model": "custom/trophy/trophy1000"
+  },
+  {
+      "predicate": {
+          "custom_model_data": 4
+      },
+      "model": "custom/other/fence"
   }
   ]
 }
