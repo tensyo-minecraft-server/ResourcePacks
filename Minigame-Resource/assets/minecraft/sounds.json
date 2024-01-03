@@ -7,6 +7,14 @@
             }
         ]
     },
+    "custom.worship": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "custom/worship"
+            }
+        ]
+    },
     "custom.athletic.0": {
         "category": "master",
         "sounds": [
