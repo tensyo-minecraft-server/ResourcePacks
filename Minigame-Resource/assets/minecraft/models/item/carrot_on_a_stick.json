@@ -45,6 +45,12 @@
                 "custom_model_data": 7
             },
             "model": "custom/other/drinks/cup_orange_juice"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/other/sirakaba"
         }
     ]
 }
