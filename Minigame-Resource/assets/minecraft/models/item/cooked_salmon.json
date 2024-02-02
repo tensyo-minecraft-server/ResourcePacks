@@ -9,6 +9,12 @@
               "custom_model_data": 1
           },
           "model": "custom/other/foods/sushi"
-      }
+      },
+      {
+        "predicate": {
+            "custom_model_data": 2
+        },
+        "model": "custom/other/foods/salmon1"
+    }
   ]
 }
