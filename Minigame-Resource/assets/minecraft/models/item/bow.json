@@ -50,14 +50,14 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/bow/ore_crystal_enhancement_bow/ore_crystal_enhancement_bow_0"
+            "model": "core:item/weapons/bow/ore_crystal_enhancement_bow/ore_crystal_enhancement_bow_0"
         },
         {
             "predicate": {
                 "custom_model_data": 1,
                 "pulling": 1
             },
-            "model": "custom/bow/ore_crystal_enhancement_bow/ore_crystal_enhancement_bow_1"
+            "model": "core:item/weapons/bow/ore_crystal_enhancement_bow/ore_crystal_enhancement_bow_1"
         },
         {
             "predicate": {
@@ -65,7 +65,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "custom/bow/ore_crystal_enhancement_bow/ore_crystal_enhancement_bow_2"
+            "model": "core:item/weapons/bow/ore_crystal_enhancement_bow/ore_crystal_enhancement_bow_2"
         },
         {
             "predicate": {
@@ -73,20 +73,20 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "custom/bow/ore_crystal_enhancement_bow/ore_crystal_enhancement_bow_3"
+            "model": "core:item/weapons/bow/ore_crystal_enhancement_bow/ore_crystal_enhancement_bow_3"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/bow/ore_enhancement_bow/ore_enhancement_bow_0"
+            "model": "core:item/weapons/bow/ore_enhancement_bow/ore_enhancement_bow_0"
         },
         {
             "predicate": {
                 "custom_model_data": 2,
                 "pulling": 1
             },
-            "model": "custom/bow/ore_enhancement_bow/ore_enhancement_bow_1"
+            "model": "core:item/weapons/bow/ore_enhancement_bow/ore_enhancement_bow_1"
         },
         {
             "predicate": {
@@ -94,7 +94,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "custom/bow/ore_enhancement_bow/ore_enhancement_bow_2"
+            "model": "core:item/weapons/bow/ore_enhancement_bow/ore_enhancement_bow_2"
         },
         {
             "predicate": {
@@ -102,7 +102,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "custom/bow/ore_enhancement_bow/ore_enhancement_bow_3"
+            "model": "core:item/weapons/bow/ore_enhancement_bow/ore_enhancement_bow_3"
         }
     ]
 }

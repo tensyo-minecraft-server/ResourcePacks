@@ -8,13 +8,13 @@
           "predicate": {
               "custom_model_data": 1
           },
-          "model": "custom/other/foods/ramen1"
+          "model": "railway:item/foods/noodles/ramen"
       },
       {
         "predicate": {
             "custom_model_data": 2
         },
-        "model": "custom/other/foods/udon1"
+        "model": "railway:item/foods/noodles/udon"
       }
   ]
 }

@@ -8,31 +8,31 @@
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "custom/coin/ore/coal"
+            "model": "core:item/other/coin/ore/coal"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "custom/coin/ore/iron"
+            "model": "core:item/other/coin/ore/iron"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "custom/coin/ore/gold"
+            "model": "core:item/other/coin/ore/gold"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "custom/coin/ore/emerald"
+            "model": "core:item/other/coin/ore/emerald"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "custom/coin/ore/diamond"
+            "model": "core:item/other/coin/ore/diamond"
         }
     ]
 }

@@ -8,49 +8,49 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/other/exp_bottle"
+            "model": "core:item/other/exp_bottle"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/coin/ability/night_vision"
+            "model": "core:item/other/coin/ability/night_vision"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/coin/ability/fire_resistance"
+            "model": "core:item/other/coin/ability/fire_resistance"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/coin/ability/strength"
+            "model": "core:item/other/coin/ability/strength"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/coin/ability/haste"
+            "model": "core:item/other/coin/ability/haste"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/other/magic_wand"
+            "model": "core:item/tools/other/magic_wand"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "custom/other/drinks/cup_orange_juice"
+            "model": "core:item/foods/drinks/cup_orange_juice"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "custom/other/sirakaba"
+            "model": "railway:item/other/birch_figurine"
         }
     ]
 }

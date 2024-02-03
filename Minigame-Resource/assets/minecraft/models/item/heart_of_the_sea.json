@@ -8,13 +8,13 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/coin/vote"
+            "model": "core:item/other/coin/vote"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/other/kokoro"
+            "model": "railway:item/other/kokoro"
         }
     ]
 }

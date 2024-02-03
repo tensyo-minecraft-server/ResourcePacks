@@ -8,49 +8,49 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/flask/red"
+            "model": "core:item/materials/flask/red"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/flask/blue"
+            "model": "core:item/materials/flask/blue"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/flask/green"
+            "model": "core:item/materials/flask/green"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/other/foods/seasonings/salt_pack"
+            "model": "core:item/foods/seasonings/salt_pack"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/other/plastic"
+            "model": "core:item/materials/other/plastic"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/other/drinks/cup_empty"
+            "model": "core:item/foods/drinks/cup_empty"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "custom/other/cat_ears"
+            "model": "core:item/other/cat_ears"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "custom/other/foods/kome"
+            "model": "core:item/foods/rice/rice"
         }
     ]
 }

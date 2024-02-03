@@ -8,25 +8,25 @@
             "predicate": {
                 "trim_type": 0.01
             },
-            "model": "custom/special_ore/gemnite/armor/chestplate"
+            "model": "core:item/armors/gemnite/chestplate"
         },
         {
             "predicate": {
                 "trim_type": 0.02
             },
-            "model": "custom/special_ore/gemenite/armor/chestplate"
+            "model": "core:item/armors/gemenite/chestplate"
         },
         {
             "predicate": {
                 "trim_type": 0.03
             },
-            "model": "custom/special_ore/jouenite/armor/chestplate"
+            "model": "core:item/armors/jouenite/chestplate"
         },
         {
             "predicate": {
                 "trim_type": 0.04
             },
-            "model": "custom/special_ore/darknite/armor/chestplate"
+            "model": "core:item/armors/darknite/chestplate"
         },
 
         {

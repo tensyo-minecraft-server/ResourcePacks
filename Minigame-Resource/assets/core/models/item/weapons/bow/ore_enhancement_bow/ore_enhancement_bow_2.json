@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "core:item/weapons/bow/ore_enhancement_bow/ore_enhancement_bow_2"
+    }
+}

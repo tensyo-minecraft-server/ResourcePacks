@@ -8,7 +8,7 @@
           "predicate": {
               "custom_model_data": 1
           },
-          "model": "custom/other/foods/takoyaki"
+          "model": "railway:item/foods/other/takoyaki"
       }
   ]
 }

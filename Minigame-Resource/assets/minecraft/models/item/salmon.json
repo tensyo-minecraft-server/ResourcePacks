@@ -8,25 +8,25 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/fishing/fish/outstanding_fish"
+            "model": "core:item/foods/fish/outstanding_fish"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/fishing/fish/grunt_fish"
+            "model": "core:item/foods/fish/grunt_fish"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/fishing/fish/japanese_spanish_mackerel_fish"
+            "model": "core:item/foods/fish/japanese_spanish_mackerel_fish"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/fishing/fish/glitter_eel_fish"
+            "model": "core:item/foods/fish/glitter_eel_fish"
         }
     ]
 }

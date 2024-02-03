@@ -1,32 +1,32 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/leather_horse_armor"
-  },
-  "overrides": [
-    {
-      "predicate": {
-          "custom_model_data": 1
-      },
-      "model": "custom/trophy/trophy100"
-  },
-  {
-      "predicate": {
-          "custom_model_data": 2
-      },
-      "model": "custom/trophy/trophy500"
-  },
-  {
-      "predicate": {
-          "custom_model_data": 3
-      },
-      "model": "custom/trophy/trophy1000"
-  },
-  {
-      "predicate": {
-          "custom_model_data": 4
-      },
-      "model": "custom/other/fence"
-  }
-  ]
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/leather_horse_armor"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "core:item/other/trophy/trophy100"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "core:item/other/trophy/trophy500"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "core:item/other/trophy/trophy1000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "core:item/other/fence"
+        }
+    ]
 }

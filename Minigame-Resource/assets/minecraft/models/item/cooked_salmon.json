@@ -8,13 +8,13 @@
           "predicate": {
               "custom_model_data": 1
           },
-          "model": "custom/other/foods/sushi"
+          "model": "railway:item/foods/sushi/tuna"
       },
       {
         "predicate": {
             "custom_model_data": 2
         },
-        "model": "custom/other/foods/salmon1"
+        "model": "railway:item/foods/sushi/salmon"
     }
   ]
 }

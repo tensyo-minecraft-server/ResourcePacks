@@ -8,25 +8,25 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/special_ore/gemnite/tools/pickaxe"
+            "model": "core:item/tools/gemnite/pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/special_ore/gemenite/tools/pickaxe"
+            "model": "core:item/tools/gemenite/pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/special_ore/jouenite/tools/pickaxe"
+            "model": "core:item/tools/jouenite/pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/special_ore/darknite/tools/pickaxe"
+            "model": "core:item/tools/darknite/pickaxe"
         }
     ]
 }

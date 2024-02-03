@@ -1,0 +1,8 @@
+{
+    "parent": "guns:item/weapons/ak47",
+    "textures": {
+        "2": "guns:block/color/typhoonbrown",
+        "4": "guns:block/color/red_concrete",
+        "5": "guns:block/color/asval"
+    }
+}

@@ -8,31 +8,31 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/other/sword/black_naginata_sword"
+            "model": "core:item/weapons/other/black_naginata_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/special_ore/gemnite/tools/sword"
+            "model": "core:item/weapons/gemnite/sword"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "custom/special_ore/gemenite/tools/sword"
+            "model": "core:item/weapons/gemenite/sword"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "custom/special_ore/jouenite/tools/sword"
+            "model": "core:item/weapons/jouenite/sword"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "custom/special_ore/darknite/tools/sword"
+            "model": "core:item/weapons/darknite/sword"
         }
     ]
 }

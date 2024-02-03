@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "railway:item/foods/beef/cooked_japanese_wagyu_beef"
+    }
+}

@@ -8,31 +8,31 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/special_ore/gemnite/gemnite"
+            "model": "core:item/ores/gemnite"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/special_ore/gemenite/gemenite"
+            "model": "core:item/ores/gemenite"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/special_ore/jouenite/jouenite"
+            "model": "core:item/ores/jouenite"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/special_ore/darknite/darknite"
+            "model": "core:item/ores/darknite"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "custom/other/trophy"
+            "model": "core:item/other/trophy"
         }
     ]
 }

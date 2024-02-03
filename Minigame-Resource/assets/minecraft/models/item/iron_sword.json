@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/other/sword/japanese_sword"
+            "model": "core:item/weapons/other/japanese_sword"
         }
     ]
 }

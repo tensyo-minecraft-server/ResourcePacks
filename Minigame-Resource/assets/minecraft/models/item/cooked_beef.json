@@ -8,13 +8,13 @@
           "predicate": {
               "custom_model_data": 1
           },
-          "model": "custom/other/foods/omoti"
+          "model": "core:item/foods/rice/rice_cake"
       },
       {
         "predicate": {
             "custom_model_data": 2
         },
-        "model": "custom/other/foods/niku2"
+        "model": "railway:item/foods/beef/cooked_japanese_wagyu_beef"
       }
   ]
 }

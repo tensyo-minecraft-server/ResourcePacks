@@ -8,25 +8,25 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/special_ore/gemnite/tools/axe"
+            "model": "core:item/tools/gemnite/axe"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/special_ore/gemenite/tools/axe"
+            "model": "core:item/tools/gemenite/axe"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/special_ore/jouenite/tools/axe"
+            "model": "core:item/tools/jouenite/axe"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/special_ore/darknite/tools/axe"
+            "model": "core:item/tools/darknite/axe"
         }
     ]
 }

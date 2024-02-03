@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/special_ore/gemenite/tools/axe"
-    }
-}

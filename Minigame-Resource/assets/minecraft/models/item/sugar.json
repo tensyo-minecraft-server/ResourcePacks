@@ -8,31 +8,31 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/powder/red"
+            "model": "core:item/materials/powder/red"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/powder/blue"
+            "model": "core:item/materials/powder/blue"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/powder/green"
+            "model": "core:item/materials/powder/green"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/powder/yellow"
+            "model": "core:item/materials/powder/yellow"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "custom/other/foods/seasonings/salt"
+            "model": "core:item/foods/seasonings/salt"
         }
     ]
 }

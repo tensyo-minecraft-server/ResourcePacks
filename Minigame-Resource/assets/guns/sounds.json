@@ -1,0 +1,376 @@
+{
+  "fx.ricochet": {
+    "category": "master",
+    "sounds": [
+      "guns:fx/bowhit1",
+      "guns:fx/bowhit2",
+      "guns:fx/bowhit3",
+      "guns:fx/bowhit4"
+    ]
+  },
+  "fx.whiz": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "guns:fx/whiz1",
+        "weight": 4
+      },
+      {
+        "name": "guns:fx/whiz2",
+        "weight": 1
+      },
+      {
+        "name": "guns:fx/whiz3",
+        "weight": 2
+      }
+    ]
+  },
+  "fx.stim": {
+    "category": "master",
+    "sounds": [
+      "guns:misc/stim"
+    ]
+  },
+  "explosion.frag": {
+    "category": "master",
+    "sounds": [
+      "guns:explosion/frag"
+    ]
+  },
+  "explosion.molotov": {
+    "category": "master",
+    "sounds": [
+      "guns:explosion/molotov"
+    ]
+  },
+  "reload.start.light": {
+    "category": "master",
+    "sounds": [
+      "guns:reload/eject_mag_light"
+    ]
+  },
+  "reload.end.light": {
+    "category": "master",
+    "sounds": [
+      "guns:reload/insert_mag_light"
+    ]
+  },
+  "reload.start.normal": {
+    "category": "master",
+    "sounds": [
+      "guns:reload/eject_mag_normal"
+    ]
+  },
+  "reload.end.normal": {
+    "category": "master",
+    "sounds": [
+      "guns:reload/insert_mag_normal"
+    ]
+  },
+  "reload.start.heavy": {
+    "category": "master",
+    "sounds": [
+      "guns:reload/eject_mag_minigun"
+    ]
+  },
+  "reload.end.heavy": {
+    "category": "master",
+    "sounds": [
+      "guns:reload/insert_mag_minigun"
+    ]
+  },
+  "reload.start.shotgun": {
+    "category": "master",
+    "sounds": [
+      "guns:reload/insert_shotgun_shells"
+    ]
+  },
+  "shoot.50gs.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/50gs"
+    ]
+  },
+  "shoot.357magnum.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/357magnum"
+    ]
+  },
+  "shoot.ak47.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/ak47"
+    ]
+  },
+  "shoot.aug.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/aug"
+    ]
+  },
+  "shoot.ax50.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/ax50"
+    ]
+  },
+  "shoot.fnfal.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/fnfal"
+    ]
+  },
+  "shoot.fr556.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/fr556"
+    ]
+  },
+  "shoot.kar98k.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/kar98k"
+    ]
+  },
+  "shoot.m4a1.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/m4a1"
+    ]
+  },
+  "shoot.mg34.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/mg34"
+    ]
+  },
+  "shoot.origin12.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/origin12"
+    ]
+  },
+  "shoot.r90.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/r90shotgun"
+    ]
+  },
+  "shoot.rpg7.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/rpg7"
+    ]
+  },
+  "shoot.uzi.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/uzi"
+    ]
+  },
+  "shoot.stg44.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/stg44"
+    ]
+  },
+  "shoot.fatman.quiet": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/quiet/fatman"
+    ]
+  },
+  "shoot.50gs.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/50gs"
+    ]
+  },
+  "shoot.357magnum.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/357magnum"
+    ]
+  },
+  "shoot.ak47.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/ak47"
+    ]
+  },
+  "shoot.aug.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/aug"
+    ]
+  },
+  "shoot.ax50.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/ax50"
+    ]
+  },
+  "shoot.fnfal.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/fnfal"
+    ]
+  },
+  "shoot.fr556.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/fr556"
+    ]
+  },
+  "shoot.kar98k.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/kar98k"
+    ]
+  },
+  "shoot.m4a1.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/m4a1"
+    ]
+  },
+  "shoot.mg34.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/mg34"
+    ]
+  },
+  "shoot.origin12.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/origin12"
+    ]
+  },
+  "shoot.r90.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/r90shotgun"
+    ]
+  },
+  "shoot.rpg7.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/rpg7"
+    ]
+  },
+  "shoot.uzi.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/uzi"
+    ]
+  },
+  "shoot.stg44.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/stg44"
+    ]
+  },
+  "shoot.fatman.ambient": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/ambient/fatman"
+    ]
+  },
+  "shoot.50gs.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/50gs"
+    ]
+  },
+  "shoot.357magnum.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/357magnum"
+    ]
+  },
+  "shoot.ak47.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/ak47"
+    ]
+  },
+  "shoot.aug.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/aug"
+    ]
+  },
+  "shoot.ax50.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/ax50"
+    ]
+  },
+  "shoot.fnfal.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/fnfal"
+    ]
+  },
+  "shoot.fr556.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/fr556"
+    ]
+  },
+  "shoot.kar98k.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/kar98k"
+    ]
+  },
+  "shoot.m4a1.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/m4a1"
+    ]
+  },
+  "shoot.mg34.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/mg34"
+    ]
+  },
+  "shoot.origin12.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/origin12"
+    ]
+  },
+  "shoot.r90.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/r90shotgun"
+    ]
+  },
+  "shoot.rpg7.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/rpg7"
+    ]
+  },
+  "shoot.uzi.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/uzi"
+    ]
+  },
+  "shoot.stg44.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/stg44"
+    ]
+  },
+  "shoot.fatman.loud": {
+    "category": "master",
+    "sounds": [
+      "guns:shoot/loud/fatman"
+    ]
+  }
+}

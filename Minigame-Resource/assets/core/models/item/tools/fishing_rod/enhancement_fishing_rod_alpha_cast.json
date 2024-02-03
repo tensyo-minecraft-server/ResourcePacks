@@ -1,0 +1,6 @@
+{
+    "parent": "item/fishing_rod",
+    "textures": {
+        "layer0": "core:item/tools/fishing_rod/enhancement_fishing_rod_alpha_cast"
+    }
+}

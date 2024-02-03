@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/other/original_golden_axe"
+            "model": "core:item/weapons/other/original_golden_axe"
         }
     ]
 }

@@ -8,13 +8,13 @@
           "predicate": {
               "custom_model_data": 1
           },
-          "model": "custom/other/hagaki1"
+          "model": "railway:item/other/postcard"
       },
       {
         "predicate": {
             "custom_model_data": 2
         },
-        "model": "custom/other/smart_phone"
+        "model": "core:item/other/smart_phone"
       }
   ]
 }

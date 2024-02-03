@@ -8,25 +8,25 @@
             "predicate": {
                 "trim_type": 0.01
             },
-            "model": "custom/special_ore/gemnite/armor/leggings"
+            "model": "core:item/armors/gemnite/leggings"
         },
         {
             "predicate": {
                 "trim_type": 0.02
             },
-            "model": "custom/special_ore/gemenite/armor/leggings"
+            "model": "core:item/armors/gemenite/leggings"
         },
         {
             "predicate": {
                 "trim_type": 0.03
             },
-            "model": "custom/special_ore/jouenite/armor/leggings"
+            "model": "core:item/armors/jouenite/leggings"
         },
         {
             "predicate": {
                 "trim_type": 0.04
             },
-            "model": "custom/special_ore/darknite/armor/leggings"
+            "model": "core:item/armors/darknite/leggings"
         },
         {
             "model": "minecraft:item/diamond_leggings_quartz_trim",
