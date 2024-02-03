@@ -30,6 +30,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "core:item/ores/hard_ore"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 10
             },
             "model": "core:item/other/trophy"
