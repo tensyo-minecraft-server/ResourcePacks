@@ -4,7 +4,7 @@
 		"1": "block/glow_item_frame",
 		"3": "block/red_mushroom_block",
 		"4": "block/gold_block",
-		"6": "block/diamond_pickaxe",
+		"6": "item/diamond_pickaxe",
 		"8": "core:block/font",
 		"9": "block/bone_block_side",
 		"12": "block/iron_block",
