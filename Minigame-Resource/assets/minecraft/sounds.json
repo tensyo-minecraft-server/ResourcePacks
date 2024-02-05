@@ -47,14 +47,6 @@
             }
         ]
     },
-    "custom.lobby1": {
-        "category": "master",
-        "sounds": [
-            {
-                "name": "bgm/lobby1"
-            }
-        ]
-    },
     "custom.music_5": {
         "category": "master",
         "sounds": [
