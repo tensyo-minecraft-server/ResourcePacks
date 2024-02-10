@@ -7,6 +7,22 @@
             }
         ]
     },
+    "custom.error": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "sound_effects/error"
+            }
+        ]
+    },
+    "custom.back": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "sound_effects/back"
+            }
+        ]
+    },
     "custom.worship": {
         "category": "master",
         "sounds": [
