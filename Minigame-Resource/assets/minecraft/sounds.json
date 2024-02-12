@@ -7,6 +7,30 @@
             }
         ]
     },
+    "custom.custom.click": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "sound_effects/click"
+            }
+        ]
+    },
+    "custom.open": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "sound_effects/open"
+            }
+        ]
+    },
+    "custom.event_bgm": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "bgm/event_bgm"
+            }
+        ]
+    },
     "custom.error": {
         "category": "master",
         "sounds": [

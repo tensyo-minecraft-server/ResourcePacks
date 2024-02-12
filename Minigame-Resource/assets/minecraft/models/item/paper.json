@@ -15,6 +15,12 @@
             "custom_model_data": 2
         },
         "model": "core:item/other/smart_phone"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 3
+        },
+        "model": "core:item/other/ticket"
       }
   ]
 }
