@@ -15,6 +15,24 @@
             "custom_model_data": 2
         },
         "model": "railway:item/foods/beef/cooked_japanese_wagyu_beef"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 3
+        },
+        "model": "core:item/foods/choco/choco1"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 4
+        },
+        "model": "core:item/foods/choco/choco2"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 5
+        },
+        "model": "core:item/foods/choco/choco3"
       }
   ]
 }
