@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/light_blue_wool",
+  "textures": {
+    "layer0": "minecraft:block/light_blue_wool"
+},
+"overrides": [
+    {
+        "predicate": {
+            "custom_model_data": 1
+        },
+        "model": "custom/drop/bacet"
+    }
+]
+}
