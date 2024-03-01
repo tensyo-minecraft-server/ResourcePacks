@@ -9,6 +9,12 @@
               "custom_model_data": 1
           },
           "model": "railway:item/foods/other/takoyaki"
-      }
+      },
+      {
+        "predicate": {
+            "custom_model_data": 5
+        },
+        "model": "railway:item/foods/other/ikayaki"
+    }
   ]
 }
