@@ -12,7 +12,7 @@
       },
       {
         "predicate": {
-            "custom_model_data": 5
+            "custom_model_data": 2
         },
         "model": "railway:item/foods/other/ikayaki"
     }
