@@ -33,6 +33,30 @@
             "custom_model_data": 5
         },
         "model": "core:item/foods/choco/choco3"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 6
+        },
+        "model": "core:item/foods/cake/cake1"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 7
+        },
+        "model": "core:item/foods/cake/candy"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 8
+        },
+        "model": "core:item/foods/cake/cake2"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 9
+        },
+        "model": "core:item/foods/cake/dango1"
       }
   ]
 }
