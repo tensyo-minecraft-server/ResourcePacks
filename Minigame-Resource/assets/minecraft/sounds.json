@@ -47,6 +47,30 @@
             }
         ]
     },
+    "custom.gatya-on": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "sound_effects/gatya-on"
+            }
+        ]
+    },
+    "custom.gacha2": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "sound_effects/gatya2"
+            }
+        ]
+    },
+    "custom.gacha1": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "sound_effects/gatya1"
+            }
+        ]
+    },
     "custom.worship": {
         "category": "master",
         "sounds": [

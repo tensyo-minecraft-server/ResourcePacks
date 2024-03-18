@@ -33,6 +33,12 @@
                 "custom_model_data": 8
             },
             "model": "core:item/weapons/darknite/sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "core:item/weapons/other/fire_blade"
         }
     ]
 }
