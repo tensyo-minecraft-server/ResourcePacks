@@ -27,6 +27,12 @@
                 "custom_model_data": 4
             },
             "model": "core:item/tools/darknite/axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "core:item/weapons/other/battle_axe"
         }
     ]
 }
