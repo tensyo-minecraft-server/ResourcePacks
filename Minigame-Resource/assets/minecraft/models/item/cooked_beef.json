@@ -4,59 +4,77 @@
     "layer0": "minecraft:item/cooked_beef"
   },
   "overrides": [
-      {
-          "predicate": {
-              "custom_model_data": 1
-          },
-          "model": "core:item/foods/rice/rice_cake"
+    {
+      "predicate": {
+        "custom_model_data": 1
       },
-      {
-        "predicate": {
-            "custom_model_data": 2
-        },
-        "model": "railway:item/foods/beef/cooked_japanese_wagyu_beef"
+      "model": "core:item/foods/rice/rice_cake"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
       },
-      {
-        "predicate": {
-            "custom_model_data": 3
-        },
-        "model": "core:item/foods/choco/choco1"
+      "model": "railway:item/foods/beef/cooked_japanese_wagyu_beef"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
       },
-      {
-        "predicate": {
-            "custom_model_data": 4
-        },
-        "model": "core:item/foods/choco/choco2"
+      "model": "core:item/foods/choco/choco1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
       },
-      {
-        "predicate": {
-            "custom_model_data": 5
-        },
-        "model": "core:item/foods/choco/choco3"
+      "model": "core:item/foods/choco/choco2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
       },
-      {
-        "predicate": {
-            "custom_model_data": 6
-        },
-        "model": "core:item/foods/cake/cake1"
+      "model": "core:item/foods/choco/choco3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
       },
-      {
-        "predicate": {
-            "custom_model_data": 7
-        },
-        "model": "core:item/foods/cake/candy"
+      "model": "core:item/foods/cake/cake1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
       },
-      {
-        "predicate": {
-            "custom_model_data": 8
-        },
-        "model": "core:item/foods/cake/cake2"
+      "model": "core:item/foods/cake/candy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
       },
-      {
-        "predicate": {
-            "custom_model_data": 9
-        },
-        "model": "core:item/foods/cake/dango1"
-      }
+      "model": "core:item/foods/cake/cake2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "core:item/foods/cake/dango1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "core:item/foods/dango/mitarasi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "core:item/foods/dango/kusadango"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "core:item/foods/dango/ankodango"
+    }
   ]
 }
