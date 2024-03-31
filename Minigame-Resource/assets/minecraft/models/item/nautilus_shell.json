@@ -1,26 +1,26 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/nautilus_shell"
-  },
-  "overrides": [
-      {
-          "predicate": {
-              "custom_model_data": 8
-          },
-          "model": "core:item/other/life_boost"
-      },
-      {
-          "predicate": {
-              "custom_model_data": 7
-          },
-          "model": "core:item/foods/kara_ramen"
-      },
-      {
-          "predicate": {
-              "custom_model_data": 6
-          },
-          "model": "core:item/other/shield"
-      }
-  ]
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/nautilus_shell"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "core:item/other/life_boost"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "core:item/other/shield"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "core:item/foods/kara_ramen"
+        }
+    ]
 }
