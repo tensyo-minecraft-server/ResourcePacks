@@ -17,6 +17,42 @@
             "chars": [
                 "\ue109"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/three.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\ue10A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/four.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\ue10B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/five.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\ue10C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/six.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\ue10D"
+            ]
         }
     ]
 }
