@@ -16,5 +16,12 @@
             },
             "model": "railway:item/other/kokoro"
         }
+        ,
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "core:item/other/anniversary_coin"
+        }
     ]
 }

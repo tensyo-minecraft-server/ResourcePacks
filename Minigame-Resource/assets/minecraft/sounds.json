@@ -87,6 +87,14 @@
             }
         ]
     },
+    "custom.anniversary": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "bgm/anniversary"
+            }
+        ]
+    },
     "custom.athletic.1": {
         "category": "master",
         "sounds": [
