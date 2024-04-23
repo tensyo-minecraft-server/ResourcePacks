@@ -79,6 +79,14 @@
             }
         ]
     },
+    "custom.lobby.bgm": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "bgm/lobby-bgm"
+            }
+        ]
+    },
     "custom.athletic.0": {
         "category": "master",
         "sounds": [
