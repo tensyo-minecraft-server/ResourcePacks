@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "core:item/other/mahou/mahou_rob1"
+    }
+}

@@ -36,6 +36,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "core:item/ores/zyera"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "core:item/ores/zyuedark"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 10
             },
             "model": "core:item/other/trophy"
