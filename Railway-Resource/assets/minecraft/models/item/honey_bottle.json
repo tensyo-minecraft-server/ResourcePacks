@@ -12,3 +12,31 @@
       }
   ]
 }
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/honey_bottle"
+  },
+  "overrides": [
+      {
+          "predicate": {
+              "custom_model_data": 2
+          },
+          "model": "custom/other/coke"
+      }
+  ]
+}
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/honey_bottle"
+  },
+  "overrides": [
+      {
+          "predicate": {
+              "custom_model_data": 3
+          },
+          "model": "custom/other/cider"
+      }
+  ]
+}
