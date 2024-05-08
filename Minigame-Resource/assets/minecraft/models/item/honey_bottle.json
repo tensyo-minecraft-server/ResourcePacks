@@ -9,9 +9,7 @@
               "custom_model_data": 1
           },
           "model": "railway:item/foods/drinks/wine"
-      }
-  ]
-}
+      },
         {
             "predicate": {
                 "custom_model_data": 2
@@ -23,4 +21,6 @@
                 "custom_model_data": 3
             },
             "model": "railway:item/foods/drinks/cider"
-        }
+        },
+  ]
+}
