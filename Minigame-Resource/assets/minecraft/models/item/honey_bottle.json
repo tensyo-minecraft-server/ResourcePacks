@@ -12,31 +12,15 @@
       }
   ]
 }
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/honey_bottle"
-  },
-  "overrides": [
-      {
-          "predicate": {
-              "custom_model_data": 2
-          },
-          "model": "railway:item/foods/drinks/coke"
-      }
-  ]
-}
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/honey_bottle"
-  },
-  "overrides": [
-      {
-          "predicate": {
-              "custom_model_data": 3
-          },
-          "model": "railway:item/foods/drinks/cider"
-      }
-  ]
-}
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "railway:item/foods/drinks/coke"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "railway:item/foods/drinks/cider"
+        },
