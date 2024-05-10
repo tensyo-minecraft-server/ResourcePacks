@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:item/suger",
+  "parent": "minecraft:item/sugar",
   "textures": {
-    "layer0": "minecraft:item/suger"
+    "layer0": "minecraft:item/sugar"
 },
 "overrides": [
     {
