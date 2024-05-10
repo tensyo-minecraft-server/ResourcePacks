@@ -1,14 +1,14 @@
 {
-  "parent": "item/sugar",
-  "textures": {
-    "layer0": "item/sugar"
-},
-"overrides": [
-    {
-        "predicate": {
-            "custom_model_data": 1
-        },
-        "model": "custom/drop/greenpowder"
-    }
-]
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/sugar"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom/drop/greenpowder"
+        }
+    ]
 }
