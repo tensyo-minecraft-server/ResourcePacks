@@ -3,12 +3,5 @@
   "textures": {
     "layer0": "minecraft:item/red_candle"
   },
-  "overrides": [
-      {
-          "predicate": {
-              "custom_model_data": 5
-          },
-          "model": "core:item/weapons/other/grenade"
-      }
-  ]
+  "overrides": []
 }

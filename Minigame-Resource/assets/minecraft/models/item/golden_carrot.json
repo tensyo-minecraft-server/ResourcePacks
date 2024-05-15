@@ -3,18 +3,5 @@
   "textures": {
     "layer0": "minecraft:item/golden_carrot"
   },
-  "overrides": [
-      {
-          "predicate": {
-              "custom_model_data": 1
-          },
-          "model": "railway:item/foods/other/takoyaki"
-      },
-      {
-        "predicate": {
-            "custom_model_data": 2
-        },
-        "model": "railway:item/foods/other/ikayaki"
-    }
-  ]
+  "overrides": []
 }

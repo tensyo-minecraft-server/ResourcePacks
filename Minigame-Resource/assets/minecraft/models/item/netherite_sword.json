@@ -36,27 +36,9 @@
         },
         {
             "predicate": {
-                "custom_model_data": 9
-            },
-            "model": "core:item/weapons/other/fire_blade"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 10
             },
             "model": "core:item/weapons/other/kousitu_tantou"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 11
-            },
-            "model": "core:item/weapons/other/crystal_sword"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 12
-            },
-            "model": "core:item/weapons/other/gyarakusia"
         }
     ]
 }
