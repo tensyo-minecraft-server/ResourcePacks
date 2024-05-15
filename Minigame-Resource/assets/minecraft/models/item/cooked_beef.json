@@ -39,30 +39,6 @@
         "custom_model_data": 8
       },
       "model": "core:item/foods/cake/cake2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9
-      },
-      "model": "core:item/foods/cake/dango1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 10
-      },
-      "model": "core:item/foods/dango/mitarasi"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 11
-      },
-      "model": "core:item/foods/dango/kusadango"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 12
-      },
-      "model": "core:item/foods/dango/ankodango"
     }
   ]
 }
