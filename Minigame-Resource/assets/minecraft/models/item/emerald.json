@@ -51,6 +51,12 @@
                 "custom_model_data": 10
             },
             "model": "core:item/other/trophy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "core:item/other/crystal"
         }
     ]
 }
