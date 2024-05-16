@@ -4,17 +4,17 @@
     "layer0": "minecraft:item/cooked_salmon"
   },
   "overrides": [
-      {
-          "predicate": {
-              "custom_model_data": 1
-          },
-          "model": "railway:item/foods/sushi/tuna"
+    {
+      "predicate": {
+        "custom_model_data": 1
       },
-      {
-        "predicate": {
-            "custom_model_data": 2
-        },
-        "model": "railway:item/foods/sushi/salmon"
+      "model": "railway:item/foods/sushi/tuna"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "railway:item/foods/sushi/salmon"
     }
   ]
 }
