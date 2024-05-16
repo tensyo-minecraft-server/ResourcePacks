@@ -9,6 +9,12 @@
         "custom_model_data": 1
       },
       "model": "core:item/tools/crystal/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "core:item/tools/crystal/hammer"
     }
   ]
 }
