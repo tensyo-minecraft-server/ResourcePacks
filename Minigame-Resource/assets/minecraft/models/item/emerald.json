@@ -57,6 +57,12 @@
                 "custom_model_data": 11
             },
             "model": "core:item/ores/crystal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "core:item/ores/crystal_compression"
         }
     ]
 }
