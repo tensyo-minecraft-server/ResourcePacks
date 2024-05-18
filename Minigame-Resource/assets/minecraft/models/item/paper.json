@@ -20,7 +20,13 @@
         "predicate": {
             "custom_model_data": 3
         },
-        "model": "core:item/other/ticket"
+        "model": "core:item/other/ticket/ticket_ore"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 3
+        },
+        "model": "core:item/other/ticket/ticket_gacha_red"
       }
   ]
 }
