@@ -36,6 +36,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "core:item/foods/cake/cake"
+    },
+    {
+      "predicate": {
         "custom_model_data": 8
       },
       "model": "core:item/foods/cake/cake2"
