@@ -12,3 +12,19 @@
       }
   ]
 }
+{
+  "predicate": {
+      "custom_model_data": 2
+  },
+  "model": "railway:item/foods/drinks/coke"
+}
+]
+}
+{
+  "predicate": {
+      "custom_model_data": 3
+  },
+  "model": "railway:item/foods/drinks/cider"
+}
+]
+}
