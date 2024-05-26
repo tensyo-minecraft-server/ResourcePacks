@@ -9,18 +9,18 @@
               "custom_model_data": 1
           },
           "model": "railway:item/foods/drinks/wine"
-      }
-  {
-}
-
-  "predicate": {
-      "custom_model_data": 2
-  },
-  "model": "railway:item/foods/drinks/coke"
-
-{
-  "predicate": {
-      "custom_model_data": 3
-  },
-  "model": "railway:item/foods/drinks/cider"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 2
+        },
+        "model": "railway:item/foods/drinks/coke"
+    },      
+    {
+      "predicate": {
+          "custom_model_data": 3
+      },
+      "model": "railway:item/foods/drinks/cider"
+  }
+]
 }
